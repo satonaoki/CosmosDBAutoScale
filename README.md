@@ -8,7 +8,7 @@ You can add an alert rule to monitor RU/s or number of 429 (throttled) requests 
 
 Add these configurations to "local.settings.json" file for local exeution in Visual Studio.
 
-'''
+```
 {
   "IsEncrypted": false,
   "Values": {
@@ -20,6 +20,6 @@ Add these configurations to "local.settings.json" file for local exeution in Vis
     "CosmosDB_RU": 100
   }
 }
-'''
+```
 
 Add these configurations to the "Application settings" in the Function App.
