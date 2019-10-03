@@ -23,3 +23,9 @@ Add these configurations to "local.settings.json" file for local exeution in Vis
 ```
 
 Add these configurations to the "Application settings" in the Function App.
+
+## Other Cosmos DB Auto Scalers:
+
+* https://github.com/NoOps-jp/azure-cosmosdb-scaler
+* https://github.com/giorgited/CosmosScale
+* https://github.com/GaryStrange/CosmosDBAutoScaling
